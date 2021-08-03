@@ -16,3 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: SungminSo
           GIST_ID: ${{ secrets.GIST_ID }}
+
